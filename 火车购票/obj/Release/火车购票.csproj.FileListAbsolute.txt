@@ -1,0 +1,6 @@
+H:\课程\kc\火车购票\bin\Release\火车购票.exe.config
+H:\课程\kc\火车购票\bin\Release\火车购票.exe
+H:\课程\kc\火车购票\bin\Release\火车购票.pdb
+H:\课程\kc\火车购票\obj\Release\火车购票.exe
+H:\课程\kc\火车购票\obj\Release\火车购票.pdb
+H:\课程\kc\火车购票\obj\Release\火车购票.csprojResolveAssemblyReference.cache

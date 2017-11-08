@@ -1,0 +1,12 @@
+H:\kc\kc5、设计模式\bin\Debug\kc5、设计模式.exe.config
+H:\kc\kc5、设计模式\bin\Debug\kc5、设计模式.exe
+H:\kc\kc5、设计模式\bin\Debug\kc5、设计模式.pdb
+H:\kc\kc5、设计模式\obj\Debug\kc5、设计模式.exe
+H:\kc\kc5、设计模式\obj\Debug\kc5、设计模式.pdb
+H:\kc\kc5、设计模式\obj\Debug\kc5、设计模式.csprojResolveAssemblyReference.cache
+E:\课程\kc\kc5、设计模式\bin\Debug\kc5、设计模式.exe.config
+E:\课程\kc\kc5、设计模式\bin\Debug\kc5、设计模式.exe
+E:\课程\kc\kc5、设计模式\bin\Debug\kc5、设计模式.pdb
+E:\课程\kc\kc5、设计模式\obj\Debug\kc5、设计模式.csprojResolveAssemblyReference.cache
+E:\课程\kc\kc5、设计模式\obj\Debug\kc5、设计模式.exe
+E:\课程\kc\kc5、设计模式\obj\Debug\kc5、设计模式.pdb

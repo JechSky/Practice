@@ -1,0 +1,5 @@
+H:\课程\kc\kc4、泛型反射\bin\Release\kc4、泛型反射.exe.config
+H:\课程\kc\kc4、泛型反射\bin\Release\kc4、泛型反射.exe
+H:\课程\kc\kc4、泛型反射\bin\Release\kc4、泛型反射.pdb
+H:\课程\kc\kc4、泛型反射\obj\Release\kc4、泛型反射.exe
+H:\课程\kc\kc4、泛型反射\obj\Release\kc4、泛型反射.pdb

@@ -1,0 +1,5 @@
+H:\课程\kc\kc5、设计模式\bin\Release\kc5、设计模式.exe.config
+H:\课程\kc\kc5、设计模式\bin\Release\kc5、设计模式.exe
+H:\课程\kc\kc5、设计模式\bin\Release\kc5、设计模式.pdb
+H:\课程\kc\kc5、设计模式\obj\Release\kc5、设计模式.exe
+H:\课程\kc\kc5、设计模式\obj\Release\kc5、设计模式.pdb

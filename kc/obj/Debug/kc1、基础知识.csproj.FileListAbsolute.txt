@@ -1,0 +1,29 @@
+c:\users\jechsky\documents\visual studio 2015\Projects\kc\kc\bin\Debug\kc.exe.config
+c:\users\jechsky\documents\visual studio 2015\Projects\kc\kc\bin\Debug\kc.exe
+c:\users\jechsky\documents\visual studio 2015\Projects\kc\kc\bin\Debug\kc.pdb
+c:\users\jechsky\documents\visual studio 2015\Projects\kc\kc\obj\Debug\kc1、基础知识.csprojResolveAssemblyReference.cache
+c:\users\jechsky\documents\visual studio 2015\Projects\kc\kc\obj\Debug\kc.exe
+c:\users\jechsky\documents\visual studio 2015\Projects\kc\kc\obj\Debug\kc.pdb
+H:\kc\kc\bin\Debug\kc.exe.config
+H:\kc\kc\obj\Debug\kc.exe
+H:\kc\kc\obj\Debug\kc.pdb
+H:\kc\kc\bin\Debug\kc.exe
+H:\kc\kc\bin\Debug\kc.pdb
+H:\kc\kc\obj\Debug\kc1、基础知识.csprojResolveAssemblyReference.cache
+H:\课程\kc\kc\bin\Debug\kc.exe.config
+H:\课程\kc\kc\obj\Debug\kc.exe
+H:\课程\kc\kc\obj\Debug\kc.pdb
+H:\课程\kc\kc\bin\Debug\kc.exe
+H:\课程\kc\kc\bin\Debug\kc.pdb
+H:\课程\kc\kc\obj\Debug\kc1、基础知识.csprojResolveAssemblyReference.cache
+E:\课程\kc\kc\bin\Debug\kc.exe.config
+E:\课程\kc\kc\bin\Debug\kc.exe
+E:\课程\kc\kc\bin\Debug\kc.pdb
+E:\课程\kc\kc\obj\Debug\kc.exe
+E:\课程\kc\kc\obj\Debug\kc.pdb
+F:\课程\kc\kc\obj\Debug\kc1、基础知识.csprojResolveAssemblyReference.cache
+F:\课程\kc\kc\obj\Debug\kc.exe
+F:\课程\kc\kc\obj\Debug\kc.pdb
+F:\课程\kc\kc\bin\Debug\kc.exe.config
+F:\课程\kc\kc\bin\Debug\kc.exe
+F:\课程\kc\kc\bin\Debug\kc.pdb

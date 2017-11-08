@@ -1,0 +1,4 @@
+H:\课程\kc\插件接口\bin\Release\插件接口.dll
+H:\课程\kc\插件接口\bin\Release\插件接口.pdb
+H:\课程\kc\插件接口\obj\Release\插件接口.dll
+H:\课程\kc\插件接口\obj\Release\插件接口.pdb

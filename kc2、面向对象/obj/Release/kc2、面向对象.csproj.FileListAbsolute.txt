@@ -1,0 +1,5 @@
+H:\课程\kc\kc2、面向对象\bin\Release\kc2、面向对象.exe.config
+H:\课程\kc\kc2、面向对象\bin\Release\kc2、面向对象.exe
+H:\课程\kc\kc2、面向对象\bin\Release\kc2、面向对象.pdb
+H:\课程\kc\kc2、面向对象\obj\Release\kc2、面向对象.exe
+H:\课程\kc\kc2、面向对象\obj\Release\kc2、面向对象.pdb

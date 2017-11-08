@@ -1,0 +1,10 @@
+H:\kc\Mode\bin\Debug\Mode.dll
+H:\kc\Mode\bin\Debug\Mode.pdb
+H:\kc\Mode\obj\Debug\Mode.dll
+H:\kc\Mode\obj\Debug\Mode.pdb
+H:\kc\Mode\obj\Debug\Mode.csprojResolveAssemblyReference.cache
+E:\课程\kc\Mode\bin\Debug\Mode.dll
+E:\课程\kc\Mode\bin\Debug\Mode.pdb
+E:\课程\kc\Mode\obj\Debug\Mode.csprojResolveAssemblyReference.cache
+E:\课程\kc\Mode\obj\Debug\Mode.dll
+E:\课程\kc\Mode\obj\Debug\Mode.pdb

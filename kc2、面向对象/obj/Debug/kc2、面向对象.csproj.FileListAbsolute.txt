@@ -1,0 +1,24 @@
+c:\Users\jechsky\documents\visual studio 2015\Projects\kc\kc2、面向对象\bin\Debug\kc2、面向对象.exe.config
+c:\Users\jechsky\documents\visual studio 2015\Projects\kc\kc2、面向对象\bin\Debug\kc2、面向对象.exe
+c:\Users\jechsky\documents\visual studio 2015\Projects\kc\kc2、面向对象\bin\Debug\kc2、面向对象.pdb
+c:\Users\jechsky\documents\visual studio 2015\Projects\kc\kc2、面向对象\obj\Debug\kc2、面向对象.csprojResolveAssemblyReference.cache
+c:\Users\jechsky\documents\visual studio 2015\Projects\kc\kc2、面向对象\obj\Debug\kc2、面向对象.exe
+c:\Users\jechsky\documents\visual studio 2015\Projects\kc\kc2、面向对象\obj\Debug\kc2、面向对象.pdb
+H:\kc\kc2、面向对象\bin\Debug\kc2、面向对象.exe.config
+H:\kc\kc2、面向对象\obj\Debug\kc2、面向对象.exe
+H:\kc\kc2、面向对象\obj\Debug\kc2、面向对象.pdb
+H:\kc\kc2、面向对象\obj\Debug\kc2、面向对象.csprojResolveAssemblyReference.cache
+H:\kc\kc2、面向对象\bin\Debug\kc2、面向对象.exe
+H:\kc\kc2、面向对象\bin\Debug\kc2、面向对象.pdb
+H:\课程\kc\kc2、面向对象\bin\Debug\kc2、面向对象.exe.config
+H:\课程\kc\kc2、面向对象\obj\Debug\kc2、面向对象.exe
+H:\课程\kc\kc2、面向对象\obj\Debug\kc2、面向对象.pdb
+H:\课程\kc\kc2、面向对象\bin\Debug\kc2、面向对象.exe
+H:\课程\kc\kc2、面向对象\bin\Debug\kc2、面向对象.pdb
+H:\课程\kc\kc2、面向对象\obj\Debug\kc2、面向对象.csprojResolveAssemblyReference.cache
+E:\课程\kc\kc2、面向对象\bin\Debug\kc2、面向对象.exe.config
+E:\课程\kc\kc2、面向对象\bin\Debug\kc2、面向对象.exe
+E:\课程\kc\kc2、面向对象\bin\Debug\kc2、面向对象.pdb
+E:\课程\kc\kc2、面向对象\obj\Debug\kc2、面向对象.csprojResolveAssemblyReference.cache
+E:\课程\kc\kc2、面向对象\obj\Debug\kc2、面向对象.exe
+E:\课程\kc\kc2、面向对象\obj\Debug\kc2、面向对象.pdb

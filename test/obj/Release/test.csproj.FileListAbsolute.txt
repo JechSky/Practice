@@ -1,0 +1,5 @@
+H:\课程\kc\test\bin\Release\test.exe.config
+H:\课程\kc\test\bin\Release\test.exe
+H:\课程\kc\test\bin\Release\test.pdb
+H:\课程\kc\test\obj\Release\test.exe
+H:\课程\kc\test\obj\Release\test.pdb

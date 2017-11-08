@@ -1,0 +1,14 @@
+H:\课程\kc\dg\bin\Release\dg.exe.config
+H:\课程\kc\dg\bin\Release\dg.exe
+H:\课程\kc\dg\bin\Release\dg.pdb
+H:\课程\kc\dg\obj\Release\dg.BtnTripperEventHandler.resources
+H:\课程\kc\dg\obj\Release\dg.ButtonTripper.resources
+H:\课程\kc\dg\obj\Release\dg.Form1.resources
+H:\课程\kc\dg\obj\Release\dg.Properties.Resources.resources
+H:\课程\kc\dg\obj\Release\dg.testWT.resources
+H:\课程\kc\dg\obj\Release\dg.UserControl1.resources
+H:\课程\kc\dg\obj\Release\dg.wt.resources
+H:\课程\kc\dg\obj\Release\dg.wt1.resources
+H:\课程\kc\dg\obj\Release\dg.csproj.GenerateResource.Cache
+H:\课程\kc\dg\obj\Release\dg.exe
+H:\课程\kc\dg\obj\Release\dg.pdb

@@ -1,0 +1,10 @@
+H:\课程\kc\火车购票\bin\Debug\火车购票.exe.config
+H:\课程\kc\火车购票\bin\Debug\火车购票.exe
+H:\课程\kc\火车购票\bin\Debug\火车购票.pdb
+H:\课程\kc\火车购票\obj\Debug\火车购票.exe
+H:\课程\kc\火车购票\obj\Debug\火车购票.pdb
+E:\课程\kc\火车购票\bin\Debug\火车购票.exe.config
+E:\课程\kc\火车购票\bin\Debug\火车购票.exe
+E:\课程\kc\火车购票\bin\Debug\火车购票.pdb
+E:\课程\kc\火车购票\obj\Debug\火车购票.exe
+E:\课程\kc\火车购票\obj\Debug\火车购票.pdb

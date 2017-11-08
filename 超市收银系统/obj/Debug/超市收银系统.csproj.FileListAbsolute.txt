@@ -1,0 +1,12 @@
+H:\kc\超市收银系统\bin\Debug\超市收银系统.exe.config
+H:\kc\超市收银系统\obj\Debug\超市收银系统.csprojResolveAssemblyReference.cache
+H:\kc\超市收银系统\bin\Debug\超市收银系统.exe
+H:\kc\超市收银系统\bin\Debug\超市收银系统.pdb
+H:\kc\超市收银系统\obj\Debug\超市收银系统.exe
+H:\kc\超市收银系统\obj\Debug\超市收银系统.pdb
+E:\课程\kc\超市收银系统\bin\Debug\超市收银系统.exe.config
+E:\课程\kc\超市收银系统\bin\Debug\超市收银系统.exe
+E:\课程\kc\超市收银系统\bin\Debug\超市收银系统.pdb
+E:\课程\kc\超市收银系统\obj\Debug\超市收银系统.csprojResolveAssemblyReference.cache
+E:\课程\kc\超市收银系统\obj\Debug\超市收银系统.exe
+E:\课程\kc\超市收银系统\obj\Debug\超市收银系统.pdb

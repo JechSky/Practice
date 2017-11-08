@@ -1,0 +1,11 @@
+H:\课程\kc\kc4、反射\bin\Release\kc4、反射.exe.config
+H:\课程\kc\kc4、反射\bin\Release\kc4、反射.exe
+H:\课程\kc\kc4、反射\bin\Release\kc4、反射.pdb
+H:\课程\kc\kc4、反射\bin\Release\Mode.dll
+H:\课程\kc\kc4、反射\bin\Release\Mode.pdb
+H:\课程\kc\kc4、反射\obj\Release\kc4、反射.csprojResolveAssemblyReference.cache
+H:\课程\kc\kc4、反射\obj\Release\kc4_反射.Form1.resources
+H:\课程\kc\kc4、反射\obj\Release\kc4_反射.Properties.Resources.resources
+H:\课程\kc\kc4、反射\obj\Release\kc4、反射.csproj.GenerateResource.Cache
+H:\课程\kc\kc4、反射\obj\Release\kc4、反射.exe
+H:\课程\kc\kc4、反射\obj\Release\kc4、反射.pdb

@@ -1,0 +1,5 @@
+H:\课程\kc\超市收银系统\bin\Release\超市收银系统.exe.config
+H:\课程\kc\超市收银系统\bin\Release\超市收银系统.exe
+H:\课程\kc\超市收银系统\bin\Release\超市收银系统.pdb
+H:\课程\kc\超市收银系统\obj\Release\超市收银系统.exe
+H:\课程\kc\超市收银系统\obj\Release\超市收银系统.pdb

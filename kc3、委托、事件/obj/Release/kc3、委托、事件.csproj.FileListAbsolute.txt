@@ -1,0 +1,11 @@
+H:\课程\kc\kc3、委托、事件\bin\Release\kc3、委托、事件.exe.config
+H:\课程\kc\kc3、委托、事件\bin\Release\kc3、委托、事件.exe
+H:\课程\kc\kc3、委托、事件\bin\Release\kc3、委托、事件.pdb
+H:\课程\kc\kc3、委托、事件\obj\Release\kc3_委托_事件.ButtonTripper.resources
+H:\课程\kc\kc3、委托、事件\obj\Release\kc3_委托_事件.ButtonTripperByEvent.resources
+H:\课程\kc\kc3、委托、事件\obj\Release\kc3_委托_事件.ButtonTripperByEventHandler.resources
+H:\课程\kc\kc3、委托、事件\obj\Release\kc3_委托_事件.Form1.resources
+H:\课程\kc\kc3、委托、事件\obj\Release\kc3_委托_事件.Properties.Resources.resources
+H:\课程\kc\kc3、委托、事件\obj\Release\kc3、委托、事件.csproj.GenerateResource.Cache
+H:\课程\kc\kc3、委托、事件\obj\Release\kc3、委托、事件.exe
+H:\课程\kc\kc3、委托、事件\obj\Release\kc3、委托、事件.pdb

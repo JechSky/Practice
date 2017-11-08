@@ -1,0 +1,12 @@
+H:\kc\test\bin\Debug\test.exe.config
+H:\kc\test\bin\Debug\test.exe
+H:\kc\test\bin\Debug\test.pdb
+H:\kc\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+H:\kc\test\obj\Debug\test.exe
+H:\kc\test\obj\Debug\test.pdb
+E:\课程\kc\test\bin\Debug\test.exe.config
+E:\课程\kc\test\bin\Debug\test.exe
+E:\课程\kc\test\bin\Debug\test.pdb
+E:\课程\kc\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\课程\kc\test\obj\Debug\test.exe
+E:\课程\kc\test\obj\Debug\test.pdb

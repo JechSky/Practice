@@ -1,0 +1,12 @@
+H:\kc\kc4、泛型反射\bin\Debug\kc4、泛型反射.exe.config
+H:\kc\kc4、泛型反射\bin\Debug\kc4、泛型反射.exe
+H:\kc\kc4、泛型反射\bin\Debug\kc4、泛型反射.pdb
+H:\kc\kc4、泛型反射\obj\Debug\kc4、泛型反射.csprojResolveAssemblyReference.cache
+H:\kc\kc4、泛型反射\obj\Debug\kc4、泛型反射.exe
+H:\kc\kc4、泛型反射\obj\Debug\kc4、泛型反射.pdb
+E:\课程\kc\kc4、泛型反射\bin\Debug\kc4、泛型反射.exe.config
+E:\课程\kc\kc4、泛型反射\bin\Debug\kc4、泛型反射.exe
+E:\课程\kc\kc4、泛型反射\bin\Debug\kc4、泛型反射.pdb
+E:\课程\kc\kc4、泛型反射\obj\Debug\kc4、泛型反射.csprojResolveAssemblyReference.cache
+E:\课程\kc\kc4、泛型反射\obj\Debug\kc4、泛型反射.exe
+E:\课程\kc\kc4、泛型反射\obj\Debug\kc4、泛型反射.pdb

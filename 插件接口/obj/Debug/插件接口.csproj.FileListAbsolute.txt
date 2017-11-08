@@ -1,0 +1,9 @@
+H:\kc\插件接口\bin\Debug\插件接口.dll
+H:\kc\插件接口\bin\Debug\插件接口.pdb
+H:\kc\插件接口\obj\Debug\插件接口.dll
+H:\kc\插件接口\obj\Debug\插件接口.pdb
+E:\课程\kc\插件接口\bin\Debug\插件接口.dll
+E:\课程\kc\插件接口\bin\Debug\插件接口.pdb
+E:\课程\kc\插件接口\obj\Debug\插件接口.csprojResolveAssemblyReference.cache
+E:\课程\kc\插件接口\obj\Debug\插件接口.dll
+E:\课程\kc\插件接口\obj\Debug\插件接口.pdb

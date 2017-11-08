@@ -1,0 +1,5 @@
+H:\课程\kc\kc\bin\Release\kc.exe.config
+H:\课程\kc\kc\bin\Release\kc.exe
+H:\课程\kc\kc\bin\Release\kc.pdb
+H:\课程\kc\kc\obj\Release\kc.exe
+H:\课程\kc\kc\obj\Release\kc.pdb

@@ -1,0 +1,5 @@
+H:\课程\kc\kc3、委托事件\bin\Release\kc3、委托事件.exe.config
+H:\课程\kc\kc3、委托事件\bin\Release\kc3、委托事件.exe
+H:\课程\kc\kc3、委托事件\bin\Release\kc3、委托事件.pdb
+H:\课程\kc\kc3、委托事件\obj\Release\kc3、委托事件.exe
+H:\课程\kc\kc3、委托事件\obj\Release\kc3、委托事件.pdb

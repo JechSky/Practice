@@ -1,0 +1,8 @@
+H:\课程\kc\shake\bin\Release\shake.exe.config
+H:\课程\kc\shake\bin\Release\shake.exe
+H:\课程\kc\shake\bin\Release\shake.pdb
+H:\课程\kc\shake\obj\Release\shake.Form1.resources
+H:\课程\kc\shake\obj\Release\shake.Properties.Resources.resources
+H:\课程\kc\shake\obj\Release\shake.csproj.GenerateResource.Cache
+H:\课程\kc\shake\obj\Release\shake.exe
+H:\课程\kc\shake\obj\Release\shake.pdb

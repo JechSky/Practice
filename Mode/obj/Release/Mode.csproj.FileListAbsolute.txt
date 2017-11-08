@@ -1,0 +1,4 @@
+H:\课程\kc\Mode\bin\Release\Mode.dll
+H:\课程\kc\Mode\bin\Release\Mode.pdb
+H:\课程\kc\Mode\obj\Release\Mode.dll
+H:\课程\kc\Mode\obj\Release\Mode.pdb
